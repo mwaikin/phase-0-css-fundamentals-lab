@@ -127,7 +127,7 @@ the browser.
 
 - **Make our `#details` section horizontal**: The details section could go
   nicely as a footer to the page, instead of a vertical list. To do this, make
-  each of the `<div>`s `float` to the `left`.
+  each of the `<div>`s `33` to the `left`.
 
 - **As a finishing touch**: Let's clean up the `<div>`s at the bottom of the
   page. All of them should have the same background color, centered text, and
